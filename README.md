@@ -11,22 +11,22 @@ A year's worth of sales from a fictious pizza place including the date and time 
 * Are there any pizzas we should take off the menu or any promotions we could leverage?
 
 Data Dictionary
-order_id: A unique identifier for each order.
-date: The date of the order.
-time: The time of the order.
-order_details_id: Identifier for details related to the order.
-pizza_id: Identifier for the pizza.
-quantity: The quantity of pizzas ordered.
-pizza_type_id: Identifier for the type of pizza.
-size: The size of the pizza.
-price: The price of the pizza.
-name: The name of the pizza.
-category: The category of the pizza.
-ingredients: Ingredients used in the pizza.
-day: The day of the order.
-month: The month of the order.
-hour: The hour of the order.
-sales: Sales related information.
+*order_id: A unique identifier for each order.
+*date: The date of the order.
+*time: The time of the order.
+*order_details_id: Identifier for details related to the order.
+*pizza_id: Identifier for the pizza.
+*quantity: The quantity of pizzas ordered.
+*pizza_type_id: Identifier for the type of pizza.
+*size: The size of the pizza.
+*price: The price of the pizza.
+*name: The name of the pizza.
+*category: The category of the pizza.
+*ingredients: Ingredients used in the pizza.
+*day: The day of the order.
+*month: The month of the order.
+*hour: The hour of the order.
+*sales: Sales related information.
 
 **Data Preparation**
 import the python libraries needed for the analysis and these are pandas, matplotlib and seaborn for visualisation.
