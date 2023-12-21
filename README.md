@@ -29,7 +29,7 @@ Data Dictionary
 * sales: Sales related information.
 
 **Data Preparation**
-import the python libraries needed for the analysis and these are pandas, matplotlib and seaborn for visualisation.
+* import the python libraries needed for the analysis and these are pandas, matplotlib and seaborn for visualisation.
 Data was loaded into a dataframe from all the given tables.
 the tables were merged on the keys that were foreign keys to each table.
 I checked 
