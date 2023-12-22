@@ -28,7 +28,7 @@ Data Dictionary
 * hour: The hour of the order.
 * sales: Sales related information.
 
-**Data Preparation**
+Data Preparation
 * import the python libraries needed for the analysis and these are pandas, matplotlib and seaborn for visualisation.
 Data was loaded into a dataframe from all the given tables.
 the tables were merged on the keys that were foreign keys to each table.
