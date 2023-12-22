@@ -31,5 +31,8 @@ Data Dictionary
 Data Preparation
 * import the python libraries needed for the analysis and these are pandas, matplotlib and seaborn for visualisation.
 Data was loaded into a dataframe from all the given tables.
-the tables were merged on the keys that were foreign keys to each table.
-I checked 
+The tables were merged on the keys that were foreign keys to each table.
+I checked for null values and if there are duplicates in the data set. The data was cleaned very thoroughly to make the analysis a good analysis.
+
+** Recommended Analysis **
+
